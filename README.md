@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aravindr2d2
-- 👀 I’m interested in just to go through new tools
+- 👀 I’m interested in learning new tools
 - 🌱 I’m currently learning devops tools
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cloud
 - 📫 How to reach me ...
 
 <!---
